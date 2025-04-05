@@ -1,0 +1,32 @@
+/* Estilo do componente Container em container.js */
+.container {
+    display: flex;
+    justify-content: center;
+    margin: 50px;
+    border: 1px solid black;
+    border-radius: 30px;
+    flex-wrap: wrap;
+}
+
+.personagem {
+    background-color: rgb(230, 228, 228);
+    display: flex;
+    width: auto;
+    padding-right: 20px;
+    max-width: 330px;
+    max-height: 200px;
+    height: auto;
+    margin: 20px;
+}
+
+.personagem img {
+    max-height: 200px;
+    height: auto; 
+
+}
+
+.info {
+    padding: 10px;
+    word-break: break-word; /* Quebra as palavras maiores que o tamanho máximo */
+    white-space: normal; /* Permite quebras de linha normais */
+}
