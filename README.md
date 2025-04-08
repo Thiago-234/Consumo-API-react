@@ -29,3 +29,24 @@ Você pode acessar a API diretamente clicando abaixo.
 
 [![Acessar a API](https://img.shields.io/badge/Acessar%20a%20API-007bff?style=for-the-badge&logo=appveyor)](https://www.bobsburgersapi.com/)
 
+---
+
+## Como Rodar Esse Projeto na Sua Máquina
+
+### 1. Baixe o Projeto
+
+Você pode baixar o código deste repositório de duas formas:
+
+- **1 - Clonar com Git (É necessário o GIT baixado na sua máquina):**
+  Abra o terminal e digite:
+
+  ```bash
+  git clone https://github.com/seuusuario/bobs-burguer-explorer.git
+
+- **2 - Após o download do projeto, entre no diretório correspondente**
+  ```bash
+  cd nomeDaPasta
+
+ - **3 - Após ter entrado no diretório, basta executar o seguinte código**
+  ```bash
+  npm start
