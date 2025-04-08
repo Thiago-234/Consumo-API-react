@@ -41,7 +41,7 @@ Você pode baixar o código deste repositório de duas formas:
   Abra o terminal e digite:
 
   ```bash
-  git clone https://github.com/Thiago-234/bobs-burguer-explorer.git
+  git clone https://github.com/Thiago-234/Consumo-API-react.git
 
 - **2 - Após o download do projeto, entre no diretório correspondente**
   ```bash
